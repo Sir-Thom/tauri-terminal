@@ -27,7 +27,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri-terminal.dev",
+      "identifier": "com.tauri.dev",
       "targets": "all"
     },
     "security": {
